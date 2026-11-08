@@ -16,4 +16,3 @@ public final class DatosDemo {
                 new Producto("P-008", "Jugo de naranja 1 L", "Bebidas", 1.95, 75));
     }
 }
-
